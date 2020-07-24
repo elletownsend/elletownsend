@@ -5,7 +5,7 @@ I'm a Software Engineer with a love of all things tech! This is my GitHub profil
 
 I love working with front-end web tech like JavaScript, HTML and CSS, but you'll also find me coding in Python and C#. 
 
-## Where you can fine me
+## Where you can fine me :globe_with_meridians:
 * [elletownsend.co.uk](https://www.elletownsend.co.uk) :sparkling_heart:
 * Writing for [My Blog](https://medium.com/@_elletownsend) 
 * Chatting on [Twitter](https://twitter.com/_elletownsend) :bird:
