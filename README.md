@@ -6,6 +6,6 @@ I love working with front-end web tech like JavaScript, HTML and CSS, but you mi
 
 ## Where you can find me :globe_with_meridians:
 * [elletownsend.co.uk](https://www.elletownsend.co.uk) :sparkling_heart:
-* Writing for [My Blog](https://medium.com/@_elletownsend) 
+* Writing for [My Blog](https://www.elletownsend.co.uk/blog/posts/) 
 * Chatting on [Twitter](https://twitter.com/_elletownsend) :bird:
 * Creating weird and wonderful things on [Codepen](https://codepen.io/_elletownsend) :collision:
